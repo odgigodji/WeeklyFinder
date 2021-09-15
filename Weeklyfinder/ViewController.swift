@@ -44,7 +44,3 @@ class ViewController: UIViewController {
     }
 }
 
-/*
- свойство label - lines: если пишем 0 - текст подстраивается автоматически под размер который мы выставим
- чтобы клавиатура отображала только цифры ставим в Attribute inspector/keyboard type = number
- */
