@@ -1,4 +1,4 @@
-# FirstAppsOnSwift
+# WeeklyFinder
 
 
 <img src="https://i.ibb.co/0qtMmNw/screen-Weekly-Finder.png" width="420">
