@@ -2,4 +2,4 @@
 
 
 
-![ScreenShot](https://i.ibb.co/hsWCRqy/ezgif-com-gif-maker-2.gif)
+![ScreenShot](https://github.com/odgigodji/WeeklyFinder/blob/master/screenWeeklyFinder.png)
