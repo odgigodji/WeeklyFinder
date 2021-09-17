@@ -1,6 +1,6 @@
 # WeeklyFinder
 
-<img src="https://i.ibb.co/0qtMmNw/screen-Weekly-Finder.png" width="420">
+<img src="https://i.ibb.co/0qtMmNw/screen-Weekly-Finder.png" width="380">
 
 Маленькое приложение которое показывает нам день недели в зависимости от даты.
 
